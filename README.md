@@ -1,4 +1,4 @@
-# Wild Boa Snake
+# WILD SNAKE BOA
 
 Snake game for Commodore 64.
 
